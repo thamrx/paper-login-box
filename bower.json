@@ -1,7 +1,8 @@
 {
-  "name": "login-box",
+  "name": "paper-login-box",
   "version": "0.0.4",
   "authors": [
+    "aynik <aynik26@gmail.com>",
     "Axel Christ <adracus@gmail.com>"
   ],
   "description": "Login box for general purpose",
